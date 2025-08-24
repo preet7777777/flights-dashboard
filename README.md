@@ -1,15 +1,15 @@
 # ✈️ Flights Analytics Dashboard
 
-An interactive data analytics dashboard built with **Streamlit** and **MySQL** to explore flight data.  
+✈️ Flights Analytics Dashboard — An interactive data analytics dashboard built using **Streamlit** and **MySQL** to analyze flight data.  
 It provides insights into flight routes, city connections, airline frequency, and price trends through dynamic visualizations.
 
 ---
 
 ## 🔹 Features
-- 📊 Flight data visualization with interactive charts
-- 🏙 City & route analysis 
-- 🛫 Airline frequency
-- 🔎 Filters for cities, routes, and airlines
+- 📊 Flight data visualization with interactive charts  
+- 🏙 City & route analysis  
+- 🛫 Airline frequency  
+- 🔎 Filters for cities, routes, and airlines  
 
 ---
 
